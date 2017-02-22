@@ -5,6 +5,6 @@ class A{
   }
   
   public void main(String[] args){
-    System.out.print(a);
+    System.out.print("a="+a);
   }
 }
